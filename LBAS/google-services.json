@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "373383567274",
+    "firebase_url": "https://locationbasedalertsystem.firebaseio.com",
+    "project_id": "locationbasedalertsystem",
+    "storage_bucket": "locationbasedalertsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373383567274:android:0aa0561262b11790",
+        "android_client_info": {
+          "package_name": "com.msbhakta.LocationBasedAlertSystem.LBAS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373383567274-l3sg54s48fa3c56cf3ognt3mt7oo2in0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGqoPS0yQlgc0W8nKUCPhBnfCV-JudqNc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

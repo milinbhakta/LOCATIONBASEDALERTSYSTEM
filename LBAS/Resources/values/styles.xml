@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <style name="MyTheme.Base" parent="Theme.AppCompat.Light">
+  </style>
+
+  <style name="MyTheme" parent="MyTheme.Base">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+        
+  </style>
+    <style name="CircularProgress" parent="Theme.AppCompat.Light">
+    <item name="colorAccent">@color/circularColor</item>
+  </style>
+   
+
+  <!--Loing & Registration-->
+ 
+</resources>
